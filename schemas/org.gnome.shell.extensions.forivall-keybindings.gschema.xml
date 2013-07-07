@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schemalist  gettext-domain="gnome-shell-extensions">
+	<schema path="/org/gnome/shell/extensions/forivall-keybindings/" id="org.gnome.shell.extensions.forivall-keybindings" >
+		<key type="as" name="terminal">
+			<default><![CDATA[['<Super>r']]]></default>
+			<summary>Launch gnome-terminal.</summary>
+			<description>setting 1</description>
+		</key>
+		<key type="as" name="nautilus">
+			<default><![CDATA[['<Super>e']]]></default>
+			<summary>Launch nautilus.</summary>
+			<description>setting 1</description>
+		</key>
+		<key type="as" name="gedit">
+			<default><![CDATA[['<Super>w']]]></default>
+			<summary>Launch gedit.</summary>
+			<description>setting 1</description>
+		</key>
+	</schema>
+</schemalist>
